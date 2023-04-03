@@ -11,3 +11,4 @@ analyticscheck.nflfan.org
 ssp-cookie.logan.ai
 api.howlapm.com
 sf16-static.i18n-pglstatp.com
+static1.twitcount.com
