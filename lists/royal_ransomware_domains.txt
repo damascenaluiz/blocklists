@@ -15,3 +15,5 @@ static1.twitcount.com
 img.vmmcdn.com
 vsexec.com
 qooqle.top
+vsexec.com
+devsetgroup.com
