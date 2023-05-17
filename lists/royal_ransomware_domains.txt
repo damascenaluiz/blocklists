@@ -8,7 +8,6 @@ myappearinc.com
 parkerpublic.com
 tumbleproperty.com
 analyticscheck.nflfan.org
-ssp-cookie.logan.ai
 api.howlapm.com
 img.vmmcdn.com
 vsexec.com
