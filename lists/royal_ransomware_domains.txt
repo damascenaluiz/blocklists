@@ -10,7 +10,6 @@ tumbleproperty.com
 analyticscheck.nflfan.org
 ssp-cookie.logan.ai
 api.howlapm.com
-static1.twitcount.com
 img.vmmcdn.com
 vsexec.com
 qooqle.top
