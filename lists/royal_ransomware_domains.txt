@@ -39,3 +39,4 @@ lockbit3hc6syym13ki2ag5jskr6q5qa3spspjpmtfhh6fufut737zid.onion
 lockbitov3afmxgknfhk2o5d4uqrhygd7ty3xqm56qd6zjlu6u43pgyd.onion
 e.root-servers.net
 ns1.dnsimple.com
+*.medvideos.su
