@@ -40,3 +40,7 @@ e.root-servers.net
 ns1.dnsimple.com
 *.medvideos.su
 l.widgetable.net
+pepepush.net
+supapush.net
+thejeu.com
+rfihub.com
