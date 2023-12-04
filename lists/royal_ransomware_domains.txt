@@ -44,3 +44,6 @@ pepepush.net
 supapush.net
 thejeu.com
 rfihub.com
+activepoststale.com
+brieflizard.com
+*.up4ever.download
