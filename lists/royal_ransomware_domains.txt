@@ -47,3 +47,4 @@ rfihub.com
 activepoststale.com
 brieflizard.com
 *.up4ever.download
+*.statscreate.org
