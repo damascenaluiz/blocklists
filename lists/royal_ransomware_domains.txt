@@ -48,3 +48,4 @@ activepoststale.com
 brieflizard.com
 *.up4ever.download
 *.statscreate.org
+*.g0-g3t-som3.net
