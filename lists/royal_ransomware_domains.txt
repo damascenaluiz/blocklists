@@ -39,7 +39,6 @@ lockbitov3afmxgknfhk2o5d4uqrhygd7ty3xqm56qd6zjlu6u43pgyd.onion
 e.root-servers.net
 ns1.dnsimple.com
 *.medvideos.su
-l.widgetable.net
 pepepush.net
 supapush.net
 thejeu.com
