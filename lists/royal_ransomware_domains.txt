@@ -76,3 +76,5 @@ sebkhapaction.com
 onetwofire.com
 lecapush.net
 luckpool.net
+polyfill.io
+static.socialminer.com
