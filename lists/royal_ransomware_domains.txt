@@ -103,7 +103,7 @@ crowdfalcon-immed-update.com
 crowdstuck.org
 failstrike.com
 winsstrike.com
-t.me/Crowdstriketoken
+*/Crowdstriketoken
 crowdstrikebluescreen.com
 crowdstrike0day.com
 crowdstrike-bsod.com
