@@ -130,3 +130,4 @@ cundamani.com
 selirhati.store
 ali-pro-origin-pull.kwai.net.queniulf.com
 *.rlinfraservices.com
+pac.rlinfraservices.com
