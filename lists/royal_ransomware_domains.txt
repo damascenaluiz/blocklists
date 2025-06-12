@@ -132,3 +132,4 @@ ali-pro-origin-pull.kwai.net.queniulf.com
 *.rlinfraservices.com
 pac.rlinfraservices.com
 movies.zsw.ca
+push.travistathree.com
