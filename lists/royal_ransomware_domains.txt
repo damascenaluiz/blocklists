@@ -122,12 +122,10 @@ crowdfalcon-immed-update.com
 crowdstuck.org
 failstrike.com
 winsstrike.com
-t.me\/Crowdstriketoken
 fix-crowdstrike-bsod.com
 beekai.com
 iron-dot-cobalt-antenna-219709.appspot.com
-dbeaver.one/dbeaver/download
-172.86.115.43:9000/wbinjget
+*.dbeaver.one
 cundamani.com
 selirhati.store
 ali-pro-origin-pull.kwai.net.queniulf.com
