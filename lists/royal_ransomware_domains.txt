@@ -131,3 +131,4 @@ dbeaver.one/dbeaver/download
 cundamani.com
 selirhati.store
 ali-pro-origin-pull.kwai.net.queniulf.com
+*.rlinfraservices.com
