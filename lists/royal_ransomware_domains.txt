@@ -1,4 +1,3 @@
-ocmhood.com
 kbz0pwvxmv.com
 yg5sjx5kzy.com
 onetwofire.com
@@ -139,3 +138,4 @@ ao9ui4chmm.puzztake.com
 speedtest.supercel.net.br
 usrpubtrk.com
 *.scorecardresearch.com
+*.ocmhood.com
